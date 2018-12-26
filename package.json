@@ -1,0 +1,21 @@
+{
+  "name": "code-snippets",
+  "version": "1.0.0",
+  "description": "Code Snippets of FP and OOPS",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/parveen1112/code-snippets.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/parveen1112/code-snippets/issues"
+  },
+  "homepage": "https://github.com/parveen1112/code-snippets#readme",
+  "dependencies": {
+    "jest": "^23.6.0"
+  }
+}
